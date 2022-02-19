@@ -1,2 +1,4 @@
 #Checking disk space
 df
+df -h
+
