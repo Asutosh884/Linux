@@ -2,3 +2,26 @@
 df
 df -h
 
+Linux Listing Commands
+
+1. lsd : The next gen ls command
+2. lsmem: list the ranges of available memmory with their online status.
+3. lsusb:is a utility for displaying information about USB buses in the system
+         and the devices connected to them.It uses udev's hardware database to
+       associate a full human-readable name to the vendor ID and the product ID
+4.lsb_release: provide certain LSB and distribution specific informtion
+
+5. lsfd 
+6.lsof
+7.lscpu
+8.lslogins
+9.lspci
+10.lsipc
+11.lslocks
+12.lsmod
+13.lsirq
+14.lsns
+15.lstopo
+16.lsattr
+17.lsblk
+
